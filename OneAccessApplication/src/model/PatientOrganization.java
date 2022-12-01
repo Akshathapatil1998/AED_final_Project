@@ -5,6 +5,8 @@
 package model;
 
 import java.util.ArrayList;
+import model.Role.CustomerRole;
+import model.Role.Role;
 
 /**
  *
